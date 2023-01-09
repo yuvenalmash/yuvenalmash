@@ -2,7 +2,7 @@
 <h3>A passionate full-stack developer</h3>
 
 # 💫 About Me:
-👯 I’m looking to collaborate on an exciting project.<br>🌱 I’m currently learning full-stack software development<br>💬 Ask me about python and javascript<br>⚡ Fun fact: I think I'm funny... not everyone agrees
+👯 I’m looking to collaborate on an exciting project.<br>🌱 I’m currently learning React<br>💬 Ask me about python and javascript<br>⚡ Fun fact: I think I'm funny... not everyone agrees
 
 
 ## 🌐 Socials:
