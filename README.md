@@ -1,9 +1,9 @@
 <h1>Hi 👋, I'm Yuvenal Njoroge</h1>
 <h3>A passionate full-stack developer</h3>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg">
-  <img alt="github-snake" src="dist/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="[github-snake-dark.svg](https://raw.githubusercontent.com/yuvenalmash/yuvenalmash/output/grid-snake-dark.svg)">
+  <source media="(prefers-color-scheme: light)" srcset="[github-snake.sv](https://raw.githubusercontent.com/yuvenalmash/yuvenalmash/output/grid-snake.svg)g">
+  <img alt="" src="https://raw.githubusercontent.com/yuvenalmash/yuvenalmash/output/grid-snake.svg">
 </picture>
 
 # 💫 About Me:
