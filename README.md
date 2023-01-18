@@ -1,5 +1,10 @@
 <h1>Hi 👋, I'm Yuvenal Njoroge</h1>
 <h3>A passionate full-stack developer</h3>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg">
+  <img alt="github-snake" src="github-snake.svg">
+</picture>
 
 # 💫 About Me:
 👯 I’m looking to collaborate on an exciting project.<br>🌱 I’m currently learning React<br>💬 Ask me about python and javascript<br>
