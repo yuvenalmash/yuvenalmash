@@ -4,7 +4,7 @@
 ![](https://raw.githubusercontent.com/yuvenalmash/yuvenalmash/output/grid-snake.svg)
 
 # 💫 About Me:
-👯 I’m looking to collaborate on exciting projects.<br>🌱 I’m currently learning Rails<br>💬 Ask me about python and javascript<br>
+👯 I’m looking to collaborate on exciting projects.<br>🌱 I’m currently learning Rails<br>💬 Ask me about Ruby and javascript<br>
 
 
 ## 🌐 Socials:
