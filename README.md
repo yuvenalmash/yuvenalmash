@@ -1,8 +1,6 @@
 <h1>Hi 👋, I'm Yuvenal Njoroge</h1>
 <h3>A passionate full-stack developer</h3>
 
-![](https://raw.githubusercontent.com/yuvenalmash/yuvenalmash/output/grid-snake.svg)
-
 # 💫 About Me:
 👯 I’m looking to collaborate on exciting projects.<br>🌱 I’m currently learning Nextjs<br>💬 Ask me about Ruby and javascript<br>
 
