@@ -1,8 +1,8 @@
 <h1>Hi 👋, I'm Yuvenal Njoroge</h1>
 <h3>A passionate full-stack developer</h3>
-
+<br>
 # 💫 About Me:
-👯 I’m looking to collaborate on exciting projects.<br>🌱 I’m currently learning Nextjs<br>💬 Ask me about Ruby and javascript<br>
+👯 I’m looking to collaborate on exciting projects.<br>🌱 I’m currently learning devops <br>💬 Ask me about Ruby and javascript<br>
 
 
 ## 🌐 Socials:
