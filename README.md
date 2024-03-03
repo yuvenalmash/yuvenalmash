@@ -2,8 +2,12 @@
 <h3>A passionate full-stack developer</h3>
 <br>
 # 💫 About Me:
-👯 I’m looking to collaborate on exciting projects.<br>🌱 I’m currently learning DevOps <br>💬 Ask me about Python, Ruby and javascript<br>
+👯 I’m looking to collaborate on exciting projects.<br>🌱<br>💬 Ask me about Python, Ruby and javascript<br>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg">
+  <img alt="github-snake" src="github-snake.svg">
+</picture>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yuvenal-njoroge) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@yuvenal.njoroge)[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/YuvenalNjoroge) 
