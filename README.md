@@ -2,7 +2,7 @@
 <h3>A passionate full-stack developer</h3>
 <br>
 # 💫 About Me:
-👯 I’m looking to collaborate on exciting projects.<br>🌱<br>💬 Ask me about Python, Ruby and javascript<br>
+👯 I’m looking to collaborate on exciting projects.<br>💬 Ask me about Python, Ruby and javascript<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg">
