@@ -5,9 +5,9 @@
 👯 I’m looking to collaborate on exciting projects.<br>💬 Ask me about Python, Ruby and javascript<br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="[github-snake-dark.svg](https://raw.githubusercontent.com/yuvenalmash/yuvenalmash/output/grid-snake-dark.svg)">
-  <source media="(prefers-color-scheme: light)" srcset="[github-snake.svg](https://raw.githubusercontent.com/yuvenalmash/yuvenalmash/output/grid-snake.svg)">
-  <img src="https://raw.githubusercontent.com/yuvenalmash/yuvenalmash/output/grid-snake.svg" alt="GitHub Snake">
+  <source media="(prefers-color-scheme: dark)" srcset="[github-snake-dark.svg](https://raw.githubusercontent.com/yuvenalmash/yuvenalmash/output/github-contribution-grid-snake-dark.svg)">
+  <source media="(prefers-color-scheme: light)" srcset="[github-snake.svg](https://raw.githubusercontent.com/yuvenalmash/yuvenalmash/output/github-contribution-grid-snake.svg)">
+  <img src="https://raw.githubusercontent.com/yuvenalmash/yuvenalmash/output/github-contribution-grid-snake.svg" alt="GitHub Snake">
 </picture>
 
 ## 🌐 Socials:
