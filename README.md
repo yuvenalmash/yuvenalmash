@@ -3,13 +3,7 @@
 <br>
 # 💫 About Me:
 👯 I’m looking to collaborate on exciting projects.<br>💬 Ask me about Python, Ruby and javascript<br>
-<!--
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="[github-snake-dark.svg](https://raw.githubusercontent.com/yuvenalmash/yuvenalmash/output/github-contribution-grid-snake-dark.svg)">
-  <source media="(prefers-color-scheme: light)" srcset="[github-snake.svg](https://raw.githubusercontent.com/yuvenalmash/yuvenalmash/output/github-contribution-grid-snake.svg)">
-  <img src="https://raw.githubusercontent.com/yuvenalmash/yuvenalmash/output/github-contribution-grid-snake.svg" alt="GitHub Snake">
-</picture>
--->
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yuvenal-njoroge) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@yuvenal.njoroge)[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/YuvenalNjoroge) 
 
